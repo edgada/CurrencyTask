@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CurrencyTask</string>
+    <string name="loadingData">Gaunami duomenys...</string>
+    <string name="noConnection">Nėra interneto ryšio!</string>
+    <string name="dataGetError">Klaida gaunant duomenis! Bandykite dar kartą.</string>
+    <string name="balance">Balansas</string>
+    <string name="amountToConvert">Konvertuojama suma</string>
+    <string name="convertToCurrency">Konvertuoti į valiutą</string>
+    <string name="exchange">Konvertuoti</string>
+    <string name="amountMissing">Neįvesta konvertuojama suma!</string>
+    <string name="convertedFromInfo">Konvertuota iš:\u0020</string>
+    <string name="convertedToInfo">Konvertuota į:\u0020</string>
+    <string name="commissionFeeInfo">Komisinis mokestis:\u0020</string>
+    <string name="notEnoughMoney">Nepakanka lėšų operacijai atlikti!</string>
+    <string name="notEnoughMoneyForFees">Nepakanka lėšų komisiniui mokesčiui!</string>
+    <string name="unknownError">Įvyko klaida! Bandykite dar kartą.</string>
+    <string name="feesPaidInTotal">Viso komisinių:\u0020</string>
+</resources>

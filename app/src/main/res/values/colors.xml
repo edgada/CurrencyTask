@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="loadingBackground">#DC000000</color>
+    <color name="lightBackground">#9BAAB0</color>
+    <color name="fromCurrencyBackground">#003E5B</color>
+    <color name="toCurrencyBackground">#0B7192</color>
+    <color name="enterAmount">#99BCCA</color>
+    <color name="toCurrencyText">#99BCCA</color>
+    <color name="skaiciuoklesRezultatoTekstoFonoSpalva">#b1bcbe</color>
+</resources>
